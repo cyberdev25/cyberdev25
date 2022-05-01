@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shivam1511singh@gmail.com**
 
-- ⚡ Fun fact **I have a great interest in quantum mechanics and also fascinated about the outer space.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
