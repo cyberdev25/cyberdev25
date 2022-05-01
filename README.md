@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
-<h3 align="center">I am a python developer from India currently doing B.tech in Computer Science and engineering.</h3>
+<h3 align="center">I am from India currently doing B.tech in Computer Science and engineering.</h3>
 
 - 🔭 I’m currently working on **something cool and interesting project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **C++,HTML,CSS**
+- 💬 Ask me about **flutter,dart,python**
 
 - 📫 How to reach me **shivam1511singh@gmail.com**
 
