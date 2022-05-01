@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **flutter,dart,python**
+- 💬 Ask me about **flutter,dart,python,css**
 
 - 📫 How to reach me **shivam1511singh@gmail.com**
 
