@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on **something cool and interesting project**
 
-- 🌱 I’m currently learning **flutter**
-
-- 💬 Ask me about **flutter,dart,python**
+- 💬 Ask me about **flutter,dart,python,CSS,HTML**
 
 - 📫 How to reach me **shivam1511singh@gmail.com**
 
