@@ -10,10 +10,4 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shivams95576759" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shivams95576759" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam-singh-7673a1190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivam-singh-7673a1190" height="30" width="40" /></a>
-</p>
-
 
